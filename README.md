@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fjallsarlon
+- 👋 Hi, I’m @fjallsarlon a.k.a Hacktavish
 - 👀 I’m interested in Hackintosh
-- 📫 How to reach me Fjallsarlon on Technopat.net | We have English Section too.
+- 📫 How to reach me, you can't.
 
 <!---
 fjallsarlon/fjallsarlon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
